@@ -76,7 +76,7 @@ p {
   margin: 0;
 }
 .artwork {
-  height: 800px;
+  width: 100%;
   position: relative;
   margin-top: 0px;
   padding-top: 0px;
